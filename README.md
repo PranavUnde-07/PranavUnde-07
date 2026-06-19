@@ -2,11 +2,11 @@
 
 ## 👨‍💻 About Me
 
-**Building backend systems, exploring AI, and turning ideas into scalable applications.**
+### Building backend systems, exploring AI, and turning ideas into scalable applications.
 
-As a **Computer Science student**, I'm driven by the challenge of **designing efficient software**, **solving complex problems**, and understanding how **modern systems operate at scale**.
+### As a **Computer Science student**, I'm driven by the challenge of **designing efficient software**, **solving complex problems**, and understanding how **modern systems operate at scale**.
 
-🎯 My current focus lies in **Backend Engineering**, **Generative AI**, **Data Structures & Algorithms**, and creating **impactful technology through hands-on projects**.
+### My current focus lies in **Backend Engineering**, **Generative AI**, **Data Structures & Algorithms**, and creating **impactful technology through hands-on projects**.
 
 ## 🚀 Tech Stack
 
@@ -46,8 +46,8 @@ As a **Computer Science student**, I'm driven by the challenge of **designing ef
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Pranav-07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Pranav-07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=PranavUnde-07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=PranavUnde-07&theme=dark&hide_border=false)<br/>
 
 ## 🌐 Connect With Me
 
